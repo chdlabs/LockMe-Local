@@ -1,0 +1,15 @@
+{
+  "name": "Lock Me",
+  "short_name": "Verrou PC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Application web pour verrouiller un PC à distance",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

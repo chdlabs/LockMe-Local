@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Verrouillage PC à distance</title>
+<link rel="manifest" href="manifest.json" />
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  h1 {
+    color: #333;
+  }
+  button {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  #status {
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+  <h1>Verrouiller mon PC à distance</h1>
+  <button id="lockBtn">Verrouiller le PC</button>
+  <div id="status"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
