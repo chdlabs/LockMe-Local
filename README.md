@@ -6,6 +6,10 @@ Ngrok pour l’exposition sécurisée via Internet
 
 HTML, JS, CSS pour la PWA (interface mobile)
 
+1️⃣ Télécharger ou cloner le projet
+
+Place tous les fichiers dans un dossier nommé Lock Me
+
 Lock Me/
 
 │    ├── LockMe.py      # Script backend pour verrouiller le PC
@@ -27,11 +31,10 @@ Lock Me/
 
 │   ├── ngrok.exe       # Binaire Ngrok pour exposer Flask sur Internet
 
-1️⃣ Télécharger ou cloner le projet
+2️⃣ Télécharger Et Installer les dépendances
 
-Place tous les fichiers dans un dossier nommé Lock Me, qui contient les sous-dossiers suivants :
+- Python + Flask pour le backend (Utiliser le script dependances.ps1)
 
-5️⃣ Tester
 
 Appuie sur le bouton « Verrouiller le PC »
 
