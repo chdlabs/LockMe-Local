@@ -1,4 +1,4 @@
-🧰 Technologies utilisées :
+🧰 Outils utilisées :
 
 Python + Flask pour le backend (serveur de verrouillage)
 
