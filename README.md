@@ -35,18 +35,17 @@ Lock Me/
 
 - Python + Flask pour le backend (Utiliser le script dependances.ps1)
 
+3️⃣ Exécuter le start.bat pour lancer tous les services
 
-Appuie sur le bouton « Verrouiller le PC »
-
-🔒 Si tout est correctement configuré, le PC verrouillera immédiatement sa session Windows.
+Une fois lancée récupérez l'URL générée et rajoutez là dans le fichier app.py
 
 4️⃣ Accéder à l’application depuis ton téléphone
 
 https://l'ip-de-ton-pc:8000
 
-📱 Ouvre cette URL sur ton téléphone dans un navigateur (Chrome, Safari, etc.)
+✅ Tu verras l’interface avec un bouton "Verrouiller le PC", Appuie sur le bouton 
 
-✅ Tu verras l’interface avec un bouton "Verrouiller le PC"
+🔒 Si tout est correctement configuré, le PC verrouillera immédiatement sa session Windows.
 
 📝 Remarques
 
